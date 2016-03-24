@@ -239,9 +239,9 @@ with users of npm Services. npm may run computer code in Your Content
 to analyze it, but the license does not give npm any additional rights
 to run your code for its functionality in npm products or services.
 
-The license lasts, for each piece of Your Content, until the last
-copy disappears from npm's backups, caches, and other systems, after
-you delete it from the Website or the Public Registry.
+When part of Your Content is removed from the Website or the Public
+Registry, the license ends for that part when the last copy disappears
+from npm's backups, caches, and other systems.
 
 Others who receive Your Content via npm Services may violate the terms
 on which you license Your Content. You agree that npm will not be liable
